@@ -1,0 +1,9 @@
+C:\Users\Administrator\Downloads\study\c#\test\test\bin\Debug\test.exe.config
+C:\Users\Administrator\Downloads\study\c#\test\test\bin\Debug\test.exe
+C:\Users\Administrator\Downloads\study\c#\test\test\bin\Debug\test.pdb
+C:\Users\Administrator\Downloads\study\c#\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\study\c#\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Administrator\Downloads\study\c#\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\study\c#\test\test\obj\Debug\test.exe
+C:\Users\Administrator\Downloads\study\c#\test\test\obj\Debug\test.pdb
+C:\Users\Administrator\Downloads\study\c#\test\test\obj\Debug\test.Main.resources
